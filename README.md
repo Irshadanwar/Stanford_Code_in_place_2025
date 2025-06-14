@@ -1,4 +1,4 @@
-# 🎓 Stanford_Code_in_Place_2025
+# 🎓 Stanford Code In Place 2025
 
 Welcome to my journey through [Stanford’s Code in Place 2025](https://codeinplace.stanford.edu/), a global online classroom designed to teach programming using Python — for free, and with heart ❤️.
 
