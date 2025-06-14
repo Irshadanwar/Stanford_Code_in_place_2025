@@ -82,7 +82,6 @@ Let’s build something awesome together 💻🚀
 
 - 🌐 **GitHub**: [@Irshadanwar](https://github.com/Irshadanwar)  
 - 💼 **LinkedIn**: [Md Irshad Anwar](https://www.linkedin.com/in/md-irshad-anwar/)  
-- 📬 **Email**: [md.irshad.iitm@gmail.com](mailto:md.irshad.iitm@gmail.com)
 
 ---
 
