@@ -1,7 +1,5 @@
 # 🤖 Code Buddy – Your AI Programming Friend
 
-# 🤖 Code Buddy – Your AI Programming Friend
-
 **Code Buddy** is my final project for [Stanford’s Code in Place 2025](https://codeinplace.stanford.edu/) — a global classroom initiative taught by Stanford Professors [Chris Piech](https://www.linkedin.com/in/chris-piech-44b726a/) and [Mehran Sahami](https://www.linkedin.com/in/mehransahami/).
 
 🔗 [Click here to view the project on Code in Place Showcase](https://codeinplace.stanford.edu/cip5/share/SbRxWdbfFj2ftCtdQuGg)
