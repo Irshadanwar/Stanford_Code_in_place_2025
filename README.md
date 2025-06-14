@@ -1,131 +1,74 @@
-Here’s a detailed and polished `README.md` for your main repository **Stanford\_Code\_in\_place\_2025**, showcasing both the **Code in Place journey** and your project **Code Buddy – Your AI Programming Friend**:
-
----
-
-````markdown
 # 🎓 Stanford_Code_in_place_2025
 
-Welcome to my journey through [Stanford’s Code in Place 2025](https://codeinplace.stanford.edu/), a global learning initiative designed to teach the fundamentals of computer science and programming using Python — for free, and with heart ❤️.
+Welcome to my journey through [Stanford’s Code in Place 2025](https://codeinplace.stanford.edu/), a global online classroom designed to teach programming using Python — for free, and with heart ❤️.
 
-This repository documents everything from my coursework and project files to my final project:  
-## 🤖 [Code Buddy – Your AI Programming Friend](#-code-buddy--your-ai-programming-friend)
+This repository includes my weekly lessons, certificate, and my final project:  
+👇  
+## 🤖 Code Buddy – Your AI Programming Friend
 
 ---
 
 ## 🏫 What is Code in Place?
 
-**Code in Place (CiP)** is an open online course offered by **Stanford University**, founded by Professors [Chris Piech](https://www.linkedin.com/in/chris-piech-44b726a/) and [Mehran Sahami](https://www.linkedin.com/in/mehransahami/).
+**Code in Place (CiP)** is a unique learning initiative created by Stanford Professors [Chris Piech](https://www.linkedin.com/in/chris-piech-44b726a/) and [Mehran Sahami](https://www.linkedin.com/in/mehransahami/). It teaches the fundamentals of computer science using Python in a global, community-driven format.
 
-- 📆 **Duration**: 7 weeks (April–June 2025)
-- 🧑‍🏫 **Taught by**: 2 Stanford Profs + 1,000+ volunteer teachers
-- 🌍 **Global Reach**: Over 10,000 learners across 100+ countries
-- 💡 **Languages & Tools**: Python, Karel, Turtle Graphics, Console-based games, Data structures, and more
-- 🔁 **Format**: Weekly video lessons, interactive coding problems, and live section meetings with a volunteer instructor
+- 📆 **Duration**: 7+ weeks (April – June 2025)  
+- 🧑‍🏫 **Taught by**: 2 Stanford Profs + 1,000+ volunteer section leaders  
+- 🌍 **Reach**: Over 10,000 learners from 100+ countries  
+- 💻 **Languages & Tools**: Python, Karel, Console Games, Graphics, Lists, Dictionaries  
+- 🔁 **Format**: Weekly lectures, assignments, and live mentorship sessions
 
-It’s not just about learning to code — it’s about learning to think computationally, collaboratively, and creatively.
+It’s more than a course — it’s a global celebration of learning together ❤️‍🔥.
 
 ---
 
 ## 🚀 My Code in Place Journey
 
-I was not just a student — I was selected as a **TeachNow section leader**, helping fellow learners debug and understand Python better.
+I was selected as a **TeachNow Section Leader**, mentoring 10+ students weekly and helping debug code, explain concepts, and support beginner learners in Python.
 
-### 📚 Weekly Highlights
+### 🗓️ Weekly Topics
 
-| Week | Topics Covered |
-|------|----------------|
-| Week 1 | Introduction to Programming and Karel (visual logic problems) |
-| Week 2 | Problem-solving, loops, conditions (Karel + puzzles) |
-| Week 3 | Intro to Python: input, print, numbers, random, AI module |
-| Week 4 | Control flow: if, while, for loops in Python |
-| Week 5 | Graphics with Stanford’s custom graphics library |
-| Week 6 | Data structures: lists, dictionaries, more fun problems |
-| Week 7 | 🎉 Final Project Week — *Code Buddy* born! |
+| Week | Topics |
+|------|--------|
+| **Week 1** | Karel the Robot – Loops & Conditions (Visual Programming) |
+| **Week 2** | Problem Solving, Decomposition, Stepwise Refinement |
+| **Week 3** | Intro to Python – Input, Print, Variables, AI & Random |
+| **Week 4** | Python Control Flow – If, While, For Loops |
+| **Week 5** | Graphics and Functions – Drawing and Scene Management |
+| **Week 6** | Data Structures – Lists, Dictionaries, Baby Vocab Game |
+| **Week 7** | 🎯 Final Project: Code Buddy – Your AI Programming Friend |
 
 ---
 
 ## 🤖 Code Buddy – Your AI Programming Friend
 
-> *"An intelligent terminal-based AI assistant that helps beginners debug Python code while roasting them lovingly."* – Me (probably)
+> _"Helping beginners debug code with GPT-level intelligence and TA-level sarcasm."_ 🤖🔥
 
-**Code Buddy** was my final project, built as a love letter to every beginner who’s ever cried over a `TypeError`.
+**Code Buddy** is a smart terminal-based chatbot that acts as your sarcastic programming partner. Built during the final project week of Code in Place 2025.
 
-### 🌟 Features
+### 💡 Features
 
-- ✅ Debugs your Python code intelligently using OpenAI GPT
-- 💡 Offers hints without giving away spoilers
-- 🧠 Sarcastic feedback like your techy friend who’s too cool for syntax errors
-- 🧒 Beginner-friendly (and patient!)
-- 📁 CLI-based — just run it in your terminal
+- ✅ Debugs your Python code like a pro
+- 💬 Gives spicy hints (not boring answers)
+- 🤖 GPT-powered smart assistant
+- 🧒 Beginner-friendly interface
+- 😎 Gently roasts you when you mess up (optional!)
+- 🖥️ Pure CLI-based – no GUI, no setup hassle
 
-🔗 [Live Project Showcase (Stanford)](https://codeinplace.stanford.edu/cip5/share/SbRxWdbfFj2ftCtdQuGg)  
-📽️ [Demo Video](https://youtu.be/hc1LgU0uvSI)
+🔗 [Stanford Showcase Link](https://codeinplace.stanford.edu/cip5/share/SbRxWdbfFj2ftCtdQuGg)  
+📽️ [YouTube Demo Video](https://youtu.be/hc1LgU0uvSI)
 
 ---
 
-## 🗂️ Repository Structure
+## 🧪 How It Works
+
+### Step-by-Step
 
 ```bash
-Stanford_Code_in_place_2025/
-│
-├── Code Buddy – Your AI Programming Friend/
-│   ├── code_buddy.py             # Main chatbot logic
-│   ├── buggy_code.py             # Sample input code
-│   ├── requirements.txt          # Dependencies
-│   ├── README.md                 # Project-specific README
-│
-├── certificate/
-│   ├── cip2025_certificate.pdf   # My Stanford certificate of completion
-│
-├── final_project_details/
-│   ├── project_brief.md          # Project idea write-up and plan
-│   ├── showcase_link.txt         # Stanford share link
-│
-└── README.md                     # ← You are here
-````
-
----
-
-## 📜 Certificate of Completion
-
-🎓 I’m proud to be a certified graduate of Code in Place 2025!
-📄 You can find the certificate [here](certificate/cip2025_certificate.pdf)
-
----
-
-## 🙏 Acknowledgments
-
-* 🧑‍🏫 **Chris Piech** & **Mehran Sahami** – For creating this global platform of love and learning
-* 🎯 **Valikala Sudesh Chandra** – My TeachNow mentor and the inspiration behind “Code Buddy”
-* 🤝 All my section students – You taught me as much as I taught you
-* 💬 **Stanford Team & Volunteers** – For making learning fun, free, and feel like family
-
----
-
-## 💡 Want to Try Code Buddy?
-
-Clone the repo and give it a spin:
-
-```bash
-git clone https://github.com/Irshadanwar/Stanford_Code_in_place_2025.git
-cd "Code Buddy – Your AI Programming Friend"
-pip install -r requirements.txt
-python code_buddy.py
-```
-
-*Don’t forget to add your OpenAI API key!*
-
----
-
-## 🌍 Connect with Me
-
-Let’s build cool stuff together:
-
-* 💼 LinkedIn: [Md Irshad Anwar](https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/)
-* 💻 GitHub: [@Irshadanwar](https://github.com/Irshadanwar)
-* 📧 Email: [md.irshad.iitm@gmail.com](mailto:md.irshad.iitm@gmail.com)
-
----
-
-> *"Teaching others is the fastest way to teach yourself."*
-> — **TeachNow Philosophy, Code in Place**
+1. Write your buggy code in a file → buggy_code.py
+2. Run Code Buddy → python code_buddy.py
+3. Choose your tool:
+   - Debug
+   - Hint Mode
+   - Ask "Why am I stuck in an infinite loop?"
+4. Watch Buddy analyze and reply — sarcasm included!
