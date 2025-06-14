@@ -11,7 +11,8 @@ An intelligent Python assistant that:
 
 ## 📌 About the Project
 
-**Code Buddy** is my final project for **Stanford’s Code in Place 2025** — a global classroom initiative taught by Stanford Professors [Chris Piech](https://www.linkedin.com/in/chris-piech-44b726a/) and [Mehran Sahami](https://www.linkedin.com/in/mehransahami/).
+**Code Buddy** is my final project for **[Stanford’s Code in Place 2025](https://codeinplace.stanford.edu/)**
+ — a global classroom initiative taught by Stanford Professors [Chris Piech](https://www.linkedin.com/in/chris-piech-44b726a/) and [Mehran Sahami](https://www.linkedin.com/in/mehransahami/).
 
 
 As a **TeachNow section leader**, I mentored fellow learners in debugging and understanding Python fundamentals. That inspired me to build **Code Buddy** — a 24x7 sarcastic, Gen-Z friendly assistant that helps beginners write better code, stress-free.
